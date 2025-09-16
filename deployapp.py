@@ -419,6 +419,8 @@ def main():
     <div class='footer'>
         <p style='margin: 0; font-size: 1.1rem; font-weight: 500;'>Built with Streamlit and Scikit-learn</p>
         <p style='margin: 0; font-size: 0.9rem; opacity: 0.9;'>2024 Customer Churn Prediction System</p>
+        <p style='margin: 0.5rem 0 0 0; font-size: 1rem; font-weight: 600;'>AV College of Arts, Science and Commerce</p>
+        <p style='margin: 0; font-size: 0.9rem; opacity: 0.9;'>Team AV</p>
     </div>
     """, unsafe_allow_html=True)
 
